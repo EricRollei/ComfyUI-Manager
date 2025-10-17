@@ -5463,6 +5463,17 @@
             "description": "Experience the CogVideoX model on ComfyUI"
         },
         {
+		    "author": "EricRollei",
+		    "title": "HYPIR Image Restoration for ComfyUI",
+		    "reference": "https://github.com/EricRollei/HYPIR-ComfyUI",
+		    "files": [
+		        "https://github.com/EricRollei/HYPIR-ComfyUI"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "Custom ComfyUI nodes for HYPIR image restoration using Stable Diffusion 2.1. Restores and upscales scanned or generated images with optional LM Studio prompt enhancement and tiled VAE processing for large resolutions.",
+		    "nodename_pattern": "HYPIR"
+		}
+		{
             "author": "mozman",
             "title": "ComfyUI_mozman_nodes",
             "id": "mozman-nodes",
