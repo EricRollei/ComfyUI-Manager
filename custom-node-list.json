@@ -5470,7 +5470,7 @@
 		        "https://github.com/EricRollei/HYPIR-ComfyUI"
 		    ],
 		    "install_type": "git-clone",
-		    "description": "Custom ComfyUI nodes for HYPIR image restoration using Stable Diffusion 2.1. Restores and upscales scanned or generated images with optional LM Studio prompt enhancement and tiled VAE processing for large resolutions.",
+		    "description": "Custom ComfyUI nodes for HYPIR image restoration using Stable Diffusion 2.1 and trained models.  Restores and upscales scanned or generated images with optional LM Studio prompt enhancement and tiled VAE processing for large resolutions.",
 		    "nodename_pattern": "HYPIR"
 		}
 		{
