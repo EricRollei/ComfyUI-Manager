@@ -5474,6 +5474,16 @@
 		    "nodename_pattern": "HYPIR"
 		}
 		{
+		    "author": "EricRollei",
+		    "title": "Local LLM Prompt Enhancer for WAN, Qwen, Qwen-Edit, Flux, Pony, Etc.",
+		    "reference": "https://github.com/EricRollei/Local_LLM_Prompt_Enhancer",
+		    "files": [
+		        "https://github.com/EricRollei/Local_LLM_Prompt_Enhancer"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "A comprehensive suite of AI-powered prompt enhancement nodes for ComfyUI using local LLMs (LM Studio or Ollama). Transform simple prompts into detailed, platform-optimized descriptions for video and image generation.",
+		}
+		{
             "author": "mozman",
             "title": "ComfyUI_mozman_nodes",
             "id": "mozman-nodes",
