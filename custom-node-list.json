@@ -5471,8 +5471,18 @@
 		    ],
 		    "install_type": "git-clone",
 		    "description": "Custom ComfyUI nodes for HYPIR image restoration using Stable Diffusion 2.1 and trained models.  Restores and upscales scanned or generated images with optional LM Studio prompt enhancement and tiled VAE processing for large resolutions.",
+		},
+		{
+		    "author": "EricRollei",
+		    "title": Erics Image Processing Nodes",
+		    "reference": "https://github.com/EricRollei/Eric_Image_Processing_Nodes",
+		    "files": [
+		        "https://github.com/EricRollei/Eric_Image_Processing_Nodes"
+		    ],
+		    "install_type": "git-clone",
+		    "description":  "Advanced image processing nodes featuring GPU-accelerated wavelet denoising, film grain analysis, DeepInv integration, Non-Local Means, frequency domain enhancement, and professional restoration tools with BM3D and adaptive processing.",
 		    "nodename_pattern": "HYPIR"
-		}
+		},
 		{
 		    "author": "EricRollei",
 		    "title": "Local LLM Prompt Enhancer for WAN, Qwen, Qwen-Edit, Flux, Pony, Etc.",
@@ -5482,7 +5492,7 @@
 		    ],
 		    "install_type": "git-clone",
 		    "description": "A comprehensive suite of AI-powered prompt enhancement nodes for ComfyUI using local LLMs (LM Studio or Ollama). Transform simple prompts into detailed, platform-optimized descriptions for video and image generation.",
-		}
+		},
 		{
             "author": "mozman",
             "title": "ComfyUI_mozman_nodes",
