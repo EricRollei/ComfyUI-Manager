@@ -5506,6 +5506,17 @@
 		    "category": "document processing"
 		},
 		{
+		    "author": "EricRollei",
+		    "title": "Metadata System for ComfyUI",
+		    "reference": "https://github.com/EricRollei/AAA_Metadata_System",
+		    "files": [
+		        "https://github.com/EricRollei/AAA_Metadata_System"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "Comprehensive metadata management system with multi-format support (embedded, XMP, text, SQLite). Save and Load PSD, TIFF files with layers and blend modes intact. ICC profile managment.  Includes 30+ nodes for image metadata, workflow extraction, PSD layer handling, and batch processing.",
+		    "nodename_pattern": "Eric"
+		},
+		{
             "author": "mozman",
             "title": "ComfyUI_mozman_nodes",
             "id": "mozman-nodes",
