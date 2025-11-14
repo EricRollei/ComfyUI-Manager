@@ -5494,6 +5494,18 @@
 		    "description": "A comprehensive suite of AI-powered prompt enhancement nodes for ComfyUI using local LLMs (LM Studio or Ollama). Transform simple prompts into detailed, platform-optimized descriptions for video and image generation.",
 		},
 		{
+		    "author": "EricRollei",
+		    "title": "PDF Tools - Advanced PDF Processing & OCR",
+		    "reference": "https://github.com/EricRollei/PDF-Tools",
+		    "files": [
+		        "https://github.com/EricRollei/PDF-Tools"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "Comprehensive PDF processing, OCR, and AI vision analysis toolkit. Features: PDF extraction with quality scoring and spread detection, multilingual OCR (90+ languages via Surya, Chinese/Japanese via PaddleOCR), advanced layout analysis (titles, paragraphs, tables), Florence-2 vision model for object detection and captioning, LayoutLMv3 for document understanding. Perfect for document digitization, text extraction, and intelligent document processing workflows.",
+		    "nodename_pattern": "(PDF|OCR|Surya|Florence2|LayoutLM|PaddleOCR)",
+		    "category": "document processing"
+		},
+		{
             "author": "mozman",
             "title": "ComfyUI_mozman_nodes",
             "id": "mozman-nodes",
