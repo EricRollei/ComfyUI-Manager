@@ -35017,6 +35017,17 @@
             "description": "A comprehensive collection of advanced image processing nodes for ComfyUI, featuring state-of-the-art denoising, enhancement, and restoration techniques with GPU acceleration and specialized film grain processing."
         },        
         {
+		    "author": "EricRollei",
+		    "title": "HYPIR Image Restoration for ComfyUI",
+		    "reference": "https://github.com/EricRollei/HYPIR-ComfyUI",
+		    "files": [
+		        "https://github.com/EricRollei/HYPIR-ComfyUI"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "Custom ComfyUI nodes for HYPIR image restoration using Stable Diffusion 2.1. Restores and upscales scanned or generated images with optional LM Studio prompt enhancement and tiled VAE processing for large resolutions.",
+		    "nodename_pattern": "HYPIR"
+		},
+		{
             "author": "nomadoor",
             "title": "ComfyUI Temporal Mask Tools",
             "reference": "https://github.com/nomadoor/ComfyUI-Temporal-Mask-Tools",
