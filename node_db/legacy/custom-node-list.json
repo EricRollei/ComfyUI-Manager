@@ -1,6 +1,36 @@
 {
     "custom_nodes": [
         {
+            "author": "PozzettiAndrea",
+            "title": "ComfyUI-AnyTop [REMOVED]",
+            "reference": "https://github.com/PozzettiAndrea/ComfyUI-AnyTop",
+            "files": [
+                "https://github.com/PozzettiAndrea/ComfyUI-AnyTop"
+            ],
+            "install_type": "git-clone",
+            "description": "Standalone ComfyUI custom nodes for AnyTop - Universal Motion Generation for Any Skeleton Topology."
+        },
+        {
+            "author": "penposs",
+            "title": "ComfyUI-Banana-Node [REMOVED]",
+            "reference": "https://github.com/penposs/ComfyUI-Banana-Node",
+            "files": [
+                "https://github.com/penposs/ComfyUI-Banana-Node"
+            ],
+            "install_type": "git-clone",
+            "description": "A custom node for ComfyUI that generates images using Google’s Gemini 2.5 Flash Image Preview API."
+        },
+        {
+            "author": "spiralmountain",
+            "title": "ComfyUI_HDNodes [REMOVED]",
+            "reference": "https://github.com/spiralmountain/ComfyUI_HDNodes",
+            "files": [
+                "https://github.com/spiralmountain/ComfyUI_HDNodes"
+            ],
+            "install_type": "git-clone",
+            "description": "Custom nodes for ComfyUI that enable video generation using ByteDance's Seedance model via [a/Fal.ai](https://fal.ai/)."
+        },
+        {
             "author": "fredconex",
             "title": "Sync Edit [REMOVED]",
             "reference": "https://github.com/fredconex/ComfyUI-SyncEdit",
