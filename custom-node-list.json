@@ -35625,6 +35625,17 @@
             "install_type": "git-clone",
             "description": "ComfyUI integration for BAAI's Emu3.5 multimodal models for text-to-image generation and multimodal understanding. (Description by CC)"
         },
+		{
+		    "author": "EricRollei",
+		    "title": "Qwen Layers Diffuser Pipeline",
+		    "id": "qwen-layers-diffuser-pipeline",
+		    "reference": "https://github.com/EricRollei/Qwen_Layers_Diffuser_Pipeline_Comfyui",
+		    "files": [
+		        "https://github.com/EricRollei/Qwen_Layers_Diffuser_Pipeline_Comfyui"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "Decompose images into semantic RGBA layers using Qwen-Image-Layered model. Features AI-powered layer naming, PSD/TIFF export with proper layer structure, original resolution support, and VRAM management. Includes 18 nodes for layer decomposition, manipulation, and saving."
+		},
         {
             "author": "nomadoor",
             "title": "ComfyUI Temporal Mask Tools",
