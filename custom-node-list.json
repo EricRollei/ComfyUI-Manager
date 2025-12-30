@@ -35636,6 +35636,16 @@
 		    "install_type": "git-clone",
 		    "description": "Decompose images into semantic RGBA layers using Qwen-Image-Layered model. Features AI-powered layer naming, PSD/TIFF export with proper layer structure, original resolution support, and VRAM management. Includes 18 nodes for layer decomposition, manipulation, and saving."
 		},
+		{
+		    "author": "EricRollei",
+			"title": "Refocus - Generative Refocusing",
+		    "reference": "https://github.com/EricRollei/comfyui-refocus",
+		    "files": [
+		        "https://github.com/EricRollei/comfyui-refocus"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "ComfyUI nodes for Genfocus generative refocusing. Features DeblurNet (restore all-in-focus images), BokehNet (create realistic depth-of-field/bokeh effects), DepthPro depth estimation, and defocus map utilities. Uses FLUX.1-dev with specialized LoRA adapters."
+		},
         {
             "author": "nomadoor",
             "title": "ComfyUI Temporal Mask Tools",
